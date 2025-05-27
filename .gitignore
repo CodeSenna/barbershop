@@ -1,0 +1,15 @@
+# Ignora dependências do backend
+backend/node_modules/
+
+# Arquivos de log
+*.log
+
+# Arquivos de sistema (Windows/macOS)
+.DS_Store
+Thumbs.db
+
+# Configurações do VS Code (caso use)
+.vscode/
+
+# Arquivo .env (se usar algum dia)
+.env
